@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Sales Dashboard | Power BI
+# 🛒Interactive Power BI dashboard for analyzing E-commerce sales performance using data visualization and business intelligence.
 
 ## 📌 Project Overview
 
@@ -41,7 +41,7 @@ This project is an interactive **E-Commerce Sales Dashboard** developed in **Pow
 
 ## 📷 Dashboard Preview
 
- Dashboard]Screenshot 2026-07-05 010953.png
+![Dashboard](Dashboard.png)
 
 ---
 
